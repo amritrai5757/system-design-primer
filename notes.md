@@ -4,8 +4,9 @@
 
 Web browser asks html js and css amd rended with react logic in user browser itself
 
-But in next rendered file is sent to user browser
+But in next.js rendered file is sent to user browser
 
+Most of times static files are rendered using ssr but we can also render dynamic content by asking backend server express since express is inside next so it takes less time to communciate 
 
 React iz client with express
 
