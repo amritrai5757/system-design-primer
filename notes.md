@@ -1,4 +1,10 @@
 ```
+
+✅ Web browser /client  incontext with react or frontent applicagion
+React iz client with express
+Exlress is client with mongodb
+
+
 Forward proxy is like vpn where different people request to same vpn and that vpn request to 1 server
 Load balancing is a very important functionality of Reverse proxy 
 NGINX provides load balancing 
