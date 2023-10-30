@@ -1,7 +1,14 @@
 ```
 
 ✅ Web browser /client  incontext with react or frontent applicagion
+
+Web browser asks html js and css amd rended with react logic in user browser itself
+
+But in next rendered file is sent to user browser
+
+
 React iz client with express
+
 Exlress is client with mongodb
 
 
