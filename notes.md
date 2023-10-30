@@ -1,17 +1,29 @@
 ```
 
-✅ Web browser /client  incontext with react or frontent applicagion
+✅ You should not use client and server term for backend and frontend      
+
+
+
+
+Web browser /client  incontext with react or frontent applicagion
 
 Web browser asks html js and css amd rended with react logic in user browser itself
 
-But in next.js rendered file is sent to user browser
+But in next.js rendered file is sent to user browser. Future rendering happens of browser or client 
 
-Most of times static files are rendered using ssr but we can also render dynamic content by asking backend server express since express is inside next so it takes less time to communciate 
+Most of times static files are rendered using ssr but we can also render dynamic content by asking backend since backend is inside next so it takes less time t o roundtrip or communciate 
+
+Ususally servers(like ec2where frontend is hosted) are more powerful than browsser/client so rendering take less time on server/frontend.
+
 
 React iz client with express
 
 Exlress is client with mongodb
 
+
+❤️Monorepo backend & frontend code in 1 repo to maintain consistent coding paradigm. eg : react & express in same repo like in my ecommerce app
+
+Next is not monorepo but with using it has both frontend and backend in same app.
 
 Forward proxy is like vpn where different people request to same vpn and that vpn request to 1 server
 Load balancing is a very important functionality of Reverse proxy 
