@@ -1,4 +1,11 @@
 ```
+database migration tool like Alembic, Flyway, or Liquibase.
+
+So, to summarize:
+
+Database Migration Tools: Apply structural changes to the database itself.
+Git Version Control: Tracks changes to the codebase, including database schema and migration scripts, but does not apply these changes to the database.
+
 
 ✅ You should not use client and server term for backend and frontend      
 
