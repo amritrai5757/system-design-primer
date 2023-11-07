@@ -6,6 +6,7 @@ So, to summarize:
 Database Migration Tools: Apply structural changes to the database itself.
 Git Version Control: Tracks changes to the codebase, including database schema and migration scripts, but does not apply these changes to the database.
 
+Prisma Migrate can be used for database version control. Prisma Migrate is a tool created by Prisma ORM
 
 ✅ You should not use client and server term for backend and frontend      
 
