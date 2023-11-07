@@ -1,0 +1,6 @@
+```
+Container is like a system in its own i,e it has its own file system own ip etc
+
+Container talks to each other using network 
+
+Volume are used to store database. Since we dont want our database to be deleted if we delete a container .??
