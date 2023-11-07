@@ -3,4 +3,6 @@ Container is like a system in its own i,e it has its own file system own ip etc
 
 Container talks to each other using network 
 
-Volume are used to store database. Since we dont want our database to be deleted if we delete a container .??
+Volume are used to store database. Volume dont have their own ip address
+Volumes are mounted on containers i,e attached to containers.
+Even after deleting containers volume data is persistent i,e safe and new container can be attached to it.
